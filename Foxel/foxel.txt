@@ -1,9 +1,0 @@
-foxel/
-├── index.html
-├── styles.css
-├── app.js
-├── api.js
-├── tokens.js
-├── ui.js
-├── README.md
-└── LICENSE
